@@ -25,9 +25,9 @@ php artisan vendor:publish
 ```
 Config file 'slownetwork.php'
 ```php
-    'enable' => true, : Enable check slow network
+    'enable' => true, : Enable check slow network, Disable set : false
     'version' => 1,
-    'text.taking.long.time' => "The website is taking a long time to load.",
+    'text.taking.long.time' => "The website is taking a long time to load.", : Text show on alert Slow Connect
     'text.reload.page' => "You can reload this page by",
     'text.click.here' => "CLICK HERE",
     'text.dismiss' => "[x] dismiss",
