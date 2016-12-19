@@ -28,7 +28,7 @@ Config file 'slownetwork.php'
     'enable' => true, // Enable check slow network, Disable set : false
     'version' => 1,
     'text.taking.long.time' => "The website is taking a long time to load.", // Text show on alert Slow Connect
-    'text.reload.page' => "You can reload this page by",
+    'text.reload.page' => "You can reload this page by", // Text show on alert Slow Connect
     'text.click.here' => "CLICK HERE",
     'text.dismiss' => "[x] dismiss",
     'margin.bottom' => 30,
