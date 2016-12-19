@@ -1,0 +1,21 @@
+{
+    "name": "santran/slownetwork",
+    "description": "Integrate Check Slow Network Connection to Laravel 5.2 and above.",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "SanTran\\SlowNetwork\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "San Tran",
+            "email": "santran686@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

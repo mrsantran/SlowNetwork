@@ -1,0 +1,1 @@
+<script src="{{{ url("js/slownetwork.js") }}}?version={{{ config('slownetwork.version') }}}"></script>
