@@ -30,7 +30,7 @@ Config file 'slownetwork.php'
     'text.taking.long.time' => "The website is taking a long time to load.", // Text show on alert Slow Connect
     'text.reload.page' => "You can reload this page by", // Text show on alert Slow Connect
     'text.click.here' => "CLICK HERE",// Text show on alert Slow Connect
-    'text.dismiss' => "[x] dismiss",
+    'text.dismiss' => "[x] dismiss",// Button Text show on alert Slow Connect
     'margin.bottom' => 30,
     'margin.bottom' => 45,
     'width' => 320,
