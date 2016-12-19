@@ -4,6 +4,7 @@ Laravel 5 Check Slow Network Connection
 [![Total Downloads](https://img.shields.io/packagist/dt/santran/slownetwork.svg)](https://packagist.org/packages/santran/slownetwork)
 [![Paypal Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](http://paypal.me/MrSanTran)
 
+Demo:
 ![screen shot 2016-12-19 at 15 10 18](https://cloud.githubusercontent.com/assets/21286108/21305309/732868b4-c5fd-11e6-9b47-71d393ec518f.png)
 
 Install (Laravel)
