@@ -25,9 +25,9 @@ php artisan vendor:publish
 ```
 Config file 'slownetwork.php'
 ```php
-    'enable' => true, : Enable check slow network, Disable set : false
+    'enable' => true, // Enable check slow network, Disable set : false
     'version' => 1,
-    'text.taking.long.time' => "The website is taking a long time to load.", : Text show on alert Slow Connect
+    'text.taking.long.time' => "The website is taking a long time to load.", // Text show on alert Slow Connect
     'text.reload.page' => "You can reload this page by",
     'text.click.here' => "CLICK HERE",
     'text.dismiss' => "[x] dismiss",
@@ -36,7 +36,7 @@ Config file 'slownetwork.php'
     'width' => 320,
     'height' => 45,
     'color' => "#F0DE7D",   
-    'timeout' => 5000, : Set timeout show slow connection wait while page load content
+    'timeout' => 5000, // Set timeout show slow connection wait while page load content
 ```
 
 How to use ?
