@@ -35,8 +35,8 @@ Config file 'slownetwork.php'
     'margin.bottom' => 45,
     'width' => 320,
     'height' => 45,
-    'color' => "#F0DE7D",
-    'timeout' => 5000,
+    'color' => "#F0DE7D",   
+    'timeout' => 5000, : Set timeout show slow connection wait while page load content
 ```
 
 How to use ?
