@@ -33,7 +33,7 @@ Config file 'slownetwork.php'
     'text.dismiss' => "[x] dismiss",// Button Text show on alert Slow Connect
     'margin.bottom' => 30,
     'margin.bottom' => 45,
-    'width' => 320,
+    'width' => 320,// alert Slow Connect width
     'height' => 45,
     'color' => "#F0DE7D",   
     'timeout' => 5000, // Set timeout show slow connection wait while page load content
