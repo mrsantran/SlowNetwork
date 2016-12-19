@@ -35,7 +35,7 @@ Config file 'slownetwork.php'
     'margin.bottom' => 45,
     'width' => 320,// alert Slow Connect width
     'height' => 45,// alert Slow Connect height
-    'color' => "#F0DE7D",   
+    'color' => "#F0DE7D",   // alert Slow Connect background color
     'timeout' => 5000, // Set timeout show slow connection wait while page load content
 ```
 
